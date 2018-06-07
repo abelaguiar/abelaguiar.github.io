@@ -1,0 +1,42 @@
+{
+  "name": "Abel Aguiar",
+  "short_name": "Abel",
+  "start_url": "/?utm_source=homescreen",
+  "theme_color": "#9a0505",
+  "background_color": "#9a0505",
+  "display": "standalone",
+  "orientation": "portrait",
+  "description": "Conheça um pouco sobre meu trabalho e minhas habilidades",
+  "icons": [
+    {
+        "src": "/img/favicon.png",
+        "type": "image/png",
+        "sizes": "256x256"
+    },
+    {
+        "src": "/img/icon-114x114.png",
+        "type": "image/png",
+        "sizes": "114x114"
+    },
+    {
+        "src": "/img/icon-72x72.png",
+        "type": "image/png",
+        "sizes": "72x72"
+    },
+    {
+        "src": "/img/icon-64x64.png",
+        "type": "image/png",
+        "sizes": "64x64"
+    },
+    {
+        "src": "/img/icon-32x32.png",
+        "type": "image/png",
+        "sizes": "32x32"
+    },
+    {
+        "src": "/img/icon-16x16.png",
+        "type": "image/png",
+        "sizes": "16x16"
+    }
+  ]
+}
