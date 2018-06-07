@@ -2,7 +2,7 @@
   "name": "Abel Aguiar",
   "short_name": "Abel",
   "start_url": "/?utm_source=homescreen",
-  "theme_color": "#9a0505",
+  "theme_color": "#9A0505",
   "background_color": "#9a0505",
   "display": "standalone",
   "orientation": "portrait",
